@@ -1,5 +1,7 @@
 # Introduction
 
+## Hi. This is a wip Fork. It doesn't work right now!
+
 This is a template project for using TypeScript and WebPack to build [PlayCanvas](https://playcanvas.com) projects.
 
 PlayCanvas is a fantastic open source WebGL Engine and online Editor (which you can get access to for free or pay for an organisational license).
